@@ -28,6 +28,9 @@
 		CD8E964E8FDB4369A4B848CD /* Octicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BBF89D4C8FBC4238B54BC879 /* Octicons.ttf */; };
 		2658BFE971874672854DCB9A /* SimpleLineIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6B2F257878CE40ECA4F0CA73 /* SimpleLineIcons.ttf */; };
 		71FA5DFFC32F4E2980647CB0 /* Zocial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 51534F9258F547E4B592D266 /* Zocial.ttf */; };
+		325546B03FD342E8994E4632 /* VINCHAND.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D8AAA6731A784787A5997AF9 /* VINCHAND.ttf */; };
+		E07250D013EC467C8D071D9B /* Mount Hills.otf in Resources */ = {isa = PBXBuildFile; fileRef = D7AEAE607B7E4377B2914508 /* Mount Hills.otf */; };
+		5D1EFF9ED281493E8FFEE14F /* VINCHAND.otf in Resources */ = {isa = PBXBuildFile; fileRef = FF56688466684FFF8E93432F /* VINCHAND.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -68,6 +71,9 @@
 		BBF89D4C8FBC4238B54BC879 /* Octicons.ttf */ = {isa = PBXFileReference; name = "Octicons.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/Octicons.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		6B2F257878CE40ECA4F0CA73 /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; name = "SimpleLineIcons.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		51534F9258F547E4B592D266 /* Zocial.ttf */ = {isa = PBXFileReference; name = "Zocial.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/Zocial.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D8AAA6731A784787A5997AF9 /* VINCHAND.ttf */ = {isa = PBXFileReference; name = "VINCHAND.ttf"; path = "../assets/fonts/VINCHAND.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D7AEAE607B7E4377B2914508 /* Mount Hills.otf */ = {isa = PBXFileReference; name = "Mount Hills.otf"; path = "../assets/fonts/Mount Hills.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		FF56688466684FFF8E93432F /* VINCHAND.otf */ = {isa = PBXFileReference; name = "VINCHAND.otf"; path = "../assets/fonts/VINCHAND.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -176,6 +182,9 @@
 				BBF89D4C8FBC4238B54BC879 /* Octicons.ttf */,
 				6B2F257878CE40ECA4F0CA73 /* SimpleLineIcons.ttf */,
 				51534F9258F547E4B592D266 /* Zocial.ttf */,
+				D8AAA6731A784787A5997AF9 /* VINCHAND.ttf */,
+				D7AEAE607B7E4377B2914508 /* Mount Hills.otf */,
+				FF56688466684FFF8E93432F /* VINCHAND.otf */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -287,6 +296,9 @@
 				CD8E964E8FDB4369A4B848CD /* Octicons.ttf in Resources */,
 				2658BFE971874672854DCB9A /* SimpleLineIcons.ttf in Resources */,
 				71FA5DFFC32F4E2980647CB0 /* Zocial.ttf in Resources */,
+				325546B03FD342E8994E4632 /* VINCHAND.ttf in Resources */,
+				E07250D013EC467C8D071D9B /* Mount Hills.otf in Resources */,
+				5D1EFF9ED281493E8FFEE14F /* VINCHAND.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

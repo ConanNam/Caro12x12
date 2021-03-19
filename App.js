@@ -260,11 +260,11 @@ const App = () => {
               <Text
                 style={{
                   fontSize: 28,
-                  textTransform: 'uppercase',
+                  // textTransform: 'uppercase',
                   fontFamily: 'vincHand',
                   padding: 10,
                 }}>
-                restart
+                Chơi lại
               </Text>
             </TouchableOpacity>
           </ImageBackground>
