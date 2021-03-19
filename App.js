@@ -19,7 +19,7 @@ import {
   Image,
 } from 'react-native';
 import SplashScreen from './splashScreen';
-
+//coo
 const gameMatrix = [];
 
 const X_SYMBOL = 'X';
